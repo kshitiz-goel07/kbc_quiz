@@ -39,7 +39,7 @@ int main(){
 		pz=pz*10+10000;
 	if(pz==0)
   {
-    printf("Better Luck Next Time , Buddy");
+    printf("Better Luck Next Time, Buddy");
   }
   else{
 	printf("Congratulations... You have won Rs. %ld",pz);
