@@ -52,7 +52,7 @@ int set1(){
 	int n,c=0;
 	        printf("Set - 1\n");
 	        printf("Q 1. Which of the following is the primary use of analytical skills in any work environment ?\n");
-	        printf("a)	To make well-informed decisions\nb)	Become more confident\nc)	To be more successful than others\nd)	Identifying trends\n");
+	        printf("a)	To make well-informed decisions\nb)	Become more confident\nc)	 be more successful than others\nd)	Identifying trends\n");
 	        printf(">");
 	        scanf(" %c",&x);
 	        if(x=='a')
