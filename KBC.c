@@ -64,7 +64,7 @@ int set1(){
 	        	return c;
 			}
 			
-			printf("Q 2. Which among the following are correct steps to increase one's analytical approach?\n");
+			printf("Q 2. Which among the following are correct step to increase one's analytical approach?\n");
 			printf("a)	Be observant\nb)	Master speaking skills\nc)	Think about your decisions\nd)	None of the above\n");
 			printf(">");
 			scanf(" %c",&x);
